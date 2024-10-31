@@ -313,8 +313,17 @@ a {
   width: 30rem;
   background: transparent;
   border: none;
+  border-radius: 20px; 
   outline: none;
-  color: var(--color-light);
+  color: var(--color-light); 
+  /* width: 100%;
+  height: 40px; 
+  padding: 0 15px; 
+  border: none; 
+  border: 1px solid #ccc; 
+  border-radius: 100px;
+  outline: none; */
+  
 }
 
 @media screen and (max-width: 800px) {
@@ -383,6 +392,7 @@ a {
 
 .dropdown-button:hover svg {
   fill: var(--color-main);
+  
 }
 
 /*==============================
