@@ -11,6 +11,7 @@
 git clone https://github.com/divanov11/StudyBud.git
 
 ```
+https://github.com/piyush-eon/react-entertainment-hub
 
 --> Move into the directory where we have the project files : 
 ```bash
@@ -23,6 +24,25 @@ cd StudyBud
 # Let's install virtualenv first
 pip install virtualenv
 
+npm install
+npm run build
+npm start
+yarn start
+npm run clean
+npm run build
+Verify that you’re in the correct directory and not missing key files like next.config.js or package.json. and .next presence
+yarn install
+yarn build
+npx expo install
+yarn add expo
+yarn add expo@latest so as include tsconfig if not present
+npm install -g expo-cli@latest
+npx expo start
+npx expo doctor --fix-dependencies
+npx expo-doctor
+npx expo install --check
+
+yarn start
 # Then we create our virtual environment
 virtualenv envname
 
