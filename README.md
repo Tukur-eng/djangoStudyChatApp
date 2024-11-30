@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
+<img width="30%" src="https://.PNG">
 
 # StudyBuddy
 </div>
@@ -8,10 +8,10 @@
 
 --> Clone the repository using the command below :
 ```bash
-git clone https://github.com/divanov11/StudyBud.git
+git clone https://github.com/tukur-eng/StudyBud.git
 
 ```
-https://github.com/piyush-eon/react-entertainment-hub
+
 
 --> Move into the directory where we have the project files : 
 ```bash
@@ -84,14 +84,14 @@ python manage.py runserver
 <p align="center">
   Feed Home
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
+<img src="https:.PNG">
 </td> 
 <td width="50%">
 <br>
 <p align="center">
   Room Conversation Preview
 </p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
+<img src="https://.PNG">  
 </td>
 </table>
 
